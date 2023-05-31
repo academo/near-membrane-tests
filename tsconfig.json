@@ -1,7 +1,13 @@
 {
-  "include": ["src/**/*"],
+  // "include": ["src/**/*"],
   "compilerOptions": {
-    "lib": ["ESNext", "dom"],
+    "lib": [
+      "ESNext",
+      "dom"
+    ],
+    "esModuleInterop": true,
+    "target": "ES2020",
+    "moduleResolution": "node",
     "outDir": "dist"
   }
 }
