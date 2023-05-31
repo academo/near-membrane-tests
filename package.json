@@ -1,0 +1,19 @@
+{
+  "name": "near-membrane-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VD39/typescript-webpack-boilerplate.git",
+  "author": "Esteban Beltran <esteban@academo.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@locker/near-membrane-dom": "^0.12.14",
+    "eslint": "^8.41.0",
+    "ts-loader": "^9.4.3",
+    "typescript": "^5.0.4",
+    "webpack": "^5.84.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
+  }
+}
