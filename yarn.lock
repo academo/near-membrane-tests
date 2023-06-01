@@ -108,33 +108,33 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@locker/near-membrane-base@0.12.14":
-  version "0.12.14"
-  resolved "https://registry.yarnpkg.com/@locker/near-membrane-base/-/near-membrane-base-0.12.14.tgz#ae29a9aa6d8ee879932f728dcb967ad1f1077c63"
-  integrity sha512-gOj4tLd0tgw0e4BQDT9WRW10HCLlJ9TUPFfoH7jgz2tFuEsbZffrVcis9RnSaEK9B2CIkH9E49MhcQ0xALh3Kw==
+"@locker/near-membrane-base@0.12.15":
+  version "0.12.15"
+  resolved "https://registry.yarnpkg.com/@locker/near-membrane-base/-/near-membrane-base-0.12.15.tgz#343e79bbd7feb0f8d7f01cbee6458e155b52542d"
+  integrity sha512-EOTor/cGYspdT1pDSPXmxGj+ksWwi6AKqAB7xd8J9v0kRgmEV1QXMBR1fFC3lzsK/+9VwMOufzfbGYrNLolC7w==
   dependencies:
-    "@locker/near-membrane-shared" "0.12.14"
+    "@locker/near-membrane-shared" "0.12.15"
 
-"@locker/near-membrane-dom@^0.12.14":
-  version "0.12.14"
-  resolved "https://registry.yarnpkg.com/@locker/near-membrane-dom/-/near-membrane-dom-0.12.14.tgz#7ddae6be6b5fd1e790bea78a6b7f0989f91159ba"
-  integrity sha512-sdht8EQ65N5V055Uw46VgUdqUCfmGBXiTnsSDysfD7T2bIQR6KrsAwd6p04E0j3Hql+MV2lxsRf52bQXk0SRRw==
+"@locker/near-membrane-dom@^0.12.15":
+  version "0.12.15"
+  resolved "https://registry.yarnpkg.com/@locker/near-membrane-dom/-/near-membrane-dom-0.12.15.tgz#4c8cdb36f5c23040a81cbb63c7a911a8fdd0cf8a"
+  integrity sha512-ofFKIEVnnZWF3jo+/PqKVgxBfe/qOo6jqt0iAsxyd4re+1cpgiI24y9VN9TP0zmQWGfBPHGAYmLvzt+1n3nVsw==
   dependencies:
-    "@locker/near-membrane-base" "0.12.14"
-    "@locker/near-membrane-shared" "0.12.14"
-    "@locker/near-membrane-shared-dom" "0.12.14"
+    "@locker/near-membrane-base" "0.12.15"
+    "@locker/near-membrane-shared" "0.12.15"
+    "@locker/near-membrane-shared-dom" "0.12.15"
 
-"@locker/near-membrane-shared-dom@0.12.14":
-  version "0.12.14"
-  resolved "https://registry.yarnpkg.com/@locker/near-membrane-shared-dom/-/near-membrane-shared-dom-0.12.14.tgz#5889fc4e9750b47947a399038d77a2924ff8db46"
-  integrity sha512-CCkywk4boS9OmGGmlqkDFtoUzyCmmPIX807fOraWZrp8pgRR21kQPP3uMg+g/90LaGqT15WLPSDU+VCqyTOXjQ==
+"@locker/near-membrane-shared-dom@0.12.15":
+  version "0.12.15"
+  resolved "https://registry.yarnpkg.com/@locker/near-membrane-shared-dom/-/near-membrane-shared-dom-0.12.15.tgz#f4e1a700dc7bf5a1e5c2dd23cff3ddc43e15a808"
+  integrity sha512-gxf7+CjkYYBH5NteQot5VWBntNvCVxvkBj1EkvuVmYZJYaBZKtNE6ccpIO5XXP2wdSij4pQDMIH/XEbWdqwjRg==
   dependencies:
-    "@locker/near-membrane-shared" "0.12.14"
+    "@locker/near-membrane-shared" "0.12.15"
 
-"@locker/near-membrane-shared@0.12.14":
-  version "0.12.14"
-  resolved "https://registry.yarnpkg.com/@locker/near-membrane-shared/-/near-membrane-shared-0.12.14.tgz#02245ff16d2a8bba20620e277aa205c15f010a97"
-  integrity sha512-r0IUGStTP0xHvlkgqqWzTHcdWqaA68qh7q7PlQfGvfaV5QAlDhnA4VxxcFGGWZsW/gQ3Dkbk3lHhqfY5hv7gQQ==
+"@locker/near-membrane-shared@0.12.15":
+  version "0.12.15"
+  resolved "https://registry.yarnpkg.com/@locker/near-membrane-shared/-/near-membrane-shared-0.12.15.tgz#b220de6f6bf4b076312dff0fc3198da69329d8cd"
+  integrity sha512-nMAFCtUrLUcpXkw1f4V9Z/lXBsuncvr2upiTPLC4LralfhhDoyQOZGqfyYStGUa6cXxdJ5UDeX2/2EgYZHxAkg==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
